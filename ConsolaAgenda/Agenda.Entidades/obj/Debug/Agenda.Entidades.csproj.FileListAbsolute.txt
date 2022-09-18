@@ -1,0 +1,12 @@
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsoleAgenda\Agenda.Entidades\bin\Debug\Agenda.Entidades.dll
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsoleAgenda\Agenda.Entidades\bin\Debug\Agenda.Entidades.pdb
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsoleAgenda\Agenda.Entidades\obj\Debug\Agenda.Entidades.csproj.AssemblyReference.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsoleAgenda\Agenda.Entidades\obj\Debug\Agenda.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsoleAgenda\Agenda.Entidades\obj\Debug\Agenda.Entidades.dll
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsoleAgenda\Agenda.Entidades\obj\Debug\Agenda.Entidades.pdb
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\Agenda.Entidades\bin\Debug\Agenda.Entidades.dll
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\Agenda.Entidades\bin\Debug\Agenda.Entidades.pdb
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\Agenda.Entidades\obj\Debug\Agenda.Entidades.csproj.AssemblyReference.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\Agenda.Entidades\obj\Debug\Agenda.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\Agenda.Entidades\obj\Debug\Agenda.Entidades.dll
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\Agenda.Entidades\obj\Debug\Agenda.Entidades.pdb

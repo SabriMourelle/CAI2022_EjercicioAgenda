@@ -1,0 +1,10 @@
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\ConsolaAgenda\bin\Debug\ConsolaAgenda.exe.config
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\ConsolaAgenda\bin\Debug\ConsolaAgenda.exe
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\ConsolaAgenda\bin\Debug\ConsolaAgenda.pdb
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\ConsolaAgenda\bin\Debug\Agenda.Entidades.dll
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\ConsolaAgenda\bin\Debug\Agenda.Entidades.pdb
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.csproj.AssemblyReference.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.csproj.CoreCompileInputs.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.csproj.CopyComplete
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.exe
+C:\Users\saamo\Documents\GitHub\CAI2022_EjercicioAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.pdb
